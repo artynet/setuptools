@@ -8,7 +8,7 @@ export SETUPTOOLS_DISABLE_VERSIONED_EASY_INSTALL_SCRIPT = yes
 
 # versioned easy_install scripts
 #export XPYVERSIONS  = 2.7
-export XPY3VERSIONS = 3.7 3.8
+export XPY3VERSIONS = 3.5
 
 override_dh_auto_test:
 
