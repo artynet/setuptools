@@ -8,7 +8,6 @@ Build-Depends:
  python3-all,
  python3-sphinx,
  python3-wheel,
- python3-jaraco.packaging,
  python3-rst.linker,
  python3-importlib-metadata
 Build-Conflicts: python-setuptools, python3-setuptools, pypy-setuptools
