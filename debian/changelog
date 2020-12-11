@@ -1,3 +1,9 @@
+setuptools (51.0.0-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Matthias Klose <doko@debian.org>  Fri, 11 Dec 2020 13:21:10 +0100
+
 setuptools (50.3.2-1) unstable; urgency=medium
 
   * New upstream version.
